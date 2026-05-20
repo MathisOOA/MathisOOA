@@ -1,16 +1,15 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**MathisOOA/MathisOOA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student passionate about programming, problem-solving, and building projects that challenge me to grow.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into real applications and constantly learning new technologies along the way. Whether it’s software development, video games, or experimenting with new concepts, I love creating things that are both useful and meaningful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current tech stack includes Java, JavaScript, HTML/CSS, and modern development tools. I'm also interested in algorithms, backend systems, and software architecture.
+
+Most of my time is spent learning, coding personal projects, improving my skills, and exploring new areas of tech.
+
+Currently learning:
+
+  * Python  
+  * Data structures and algorithms
+  * AI and modern technologies
